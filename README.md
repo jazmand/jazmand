@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jazmand/jazmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jazmand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazmand&show_icons=true&theme=cobalt)
+![Jazmand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazmand&show_icons=true&theme=cobalt)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&theme=cobalt&layout=compact)](https://github.com/jazmand/github-readme-stats)
 
 
