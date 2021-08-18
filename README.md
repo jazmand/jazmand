@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hammersmith+One&size=30&lines=Hi+there!;こんにちは！;)](https://git.io/typing-svg)   
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bcad&font=Hammersmith+One&size=30&lines=Hi+there!;こんにちは！;)](https://git.io/typing-svg)   
 
 ### 🌈 Experienced in:  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
   
-  <br>
  <p align='center'>
    <a href="#"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=jazmand&show_icons=true&theme=tokyonight"></a> 
     <a href="#"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&theme=tokyonight&layout=compact"></a>
