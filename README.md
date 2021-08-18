@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-<p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=headertext=&desc=Hello!&descSize=40&descAlign=81&descAlignY=27&text=こんにちは！&fontSize=35&fontAlignY=58&fontAlign=87&&animation=twinkling" />  
-  </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hammersmith+One&size=30&lines=Hi+there!;こんにちは！;)](https://git.io/typing-svg)   
+
 
 ### 🌈 Experienced in:  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
