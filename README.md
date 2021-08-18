@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <p align='center'>
    <a href="#"><img src="https://thumbs.gfycat.com/ClassicFlashyCorydorascatfish.webp"></a> 
-  <a href="jazmand.github.io"><img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jazmand&repo=jazmand.github.io&title_color=fd99a7&icon_color=dd0459&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
+  <a href="https://jazmand.github.io/"><img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jazmand&repo=jazmand.github.io&title_color=fd99a7&icon_color=dd0459&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
     <a href="#"><img src="https://thumbs.gfycat.com/PeacefulLinearCarp.webp"></a>
   </p>
   
