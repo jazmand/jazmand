@@ -37,11 +37,12 @@ Here are some ideas to get you started:
   ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-  
+  ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  
+  <br>
+  <br>
  <p align='center'>
-   <a href="#"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=jazmand&show_icons=true&theme=tokyonight"></a> 
-    <a href="#"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&theme=tokyonight&layout=compact"></a>
+   <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jazmand&show_icons=true&theme=tokyonight"></a> 
+    <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&theme=tokyonight&layout=compact"></a>
   </p>
 
 ---
