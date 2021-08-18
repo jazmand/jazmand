@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 <p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=headertext=&desc=Hello!&descSize=60&descAlign=82&descAlignY=0&text=こんにちは！&fontSize=50&fontAlignY=35&fontAlign=83&rotate=10&animation=twinkling" />  
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=headertext=&desc=Hello!&descSize=40&descAlign=81&descAlignY=27&text=こんにちは！&fontSize=35&fontAlignY=58&fontAlign=87&&animation=twinkling" />  
   </p>
 
 ### 🌈 Experienced in:  
