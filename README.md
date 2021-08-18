@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ---
+
+ <p align='center'>
+   <a href="#"><img src="https://thumbs.gfycat.com/ClassicFlashyCorydorascatfish.webp"></a> 
+  <a href="jazmand.github.io"><img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jazmand&repo=jazmand.github.io&title_color=fd99a7&icon_color=dd0459&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
+    <a href="#"><img src="https://thumbs.gfycat.com/PeacefulLinearCarp.webp"></a>
+  </p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bcad&font=Hammersmith+One&size=30&lines=Hi+there!;こんにちは！;)](https://git.io/typing-svg)   
+   <p align='center'>
+   <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jazmand&title_color=fd99a7&icon_color=dd0459&text_color=adbac7&bg_color=00000000&show_icons=true"></a> 
+    <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&title_color=fd99a7&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
+  </p>
+
+
 
 ### 🌈 Experienced in:  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,10 +51,7 @@ Here are some ideas to get you started:
   ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  
   <br>
   <br>
- <p align='center'>
-   <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jazmand&show_icons=true&theme=tokyonight"></a> 
-    <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&theme=tokyonight&layout=compact"></a>
-  </p>
+
 
 ---
 
