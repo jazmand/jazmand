@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
   <p align='center'>
-  <a href="https://jazmand.github.io/"><img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jazmand&repo=jazmand.github.io&title_color=fd99a7&icon_color=dd0459&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
+  <a href="https://jazmand.github.io/"><img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jazmand&repo=jazmand.github.io&border_color=6495ED&title_color=6495ED&icon_color=FF5733&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
   </p>
   
   <p align='center'>
-   <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jazmand&title_color=fd99a7&icon_color=dd0459&text_color=adbac7&bg_color=00000000&show_icons=true"></a> 
-    <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&title_color=fd99a7&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
+   <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jazmand&border_color=6495ED&title_color=6495ED&hide_border&icon_color=FF5733&text_color=adbac7&bg_color=00000000&show_icons=true"></a> 
+    <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazmand&border_color=6495ED&title_color=6495ED&text_color=adbac7&bg_color=00000000&&layout=compact"></a>
   </p>
 
 
